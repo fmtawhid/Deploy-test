@@ -92,3 +92,5 @@ wcwidth==0.2.6
 Werkzeug==2.3.4
 whitenoise==6.6.0
 wrapt==1.14.1
+psycopg2==2.9.7
+psycopg2-binary==2.9.7
